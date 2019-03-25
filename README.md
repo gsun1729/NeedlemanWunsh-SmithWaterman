@@ -12,6 +12,6 @@ Test data is located in the folder "test_data", along with the results from when
 
 To run the script, input the following command:
 ```python
-	python align.py alignment0.input.txt alignment0.output.txt
+python align.py alignment0.input.txt alignment0.output.txt
 ```
 
